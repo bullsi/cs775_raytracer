@@ -1,6 +1,3 @@
-I, Shashwat Rohilla (133050009) M.Tech CSE, hereby declare that this is an independent solution.
-The submitted work is totally mine. I have not copied any code from any other source.
-
 Run the 'make run' command in the current directory.
 It will compile the program, and will run it as ./main.out < input.in > image.ppm and open image.ppm.
 Program consumes an input file (eg input.in) and produces a ppm image file.
