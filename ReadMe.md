@@ -1,10 +1,8 @@
 # Raytracer
 ## How to run
-Run the 'make run' command in the current directory.
-It will compile the program, and will run it as ./main.out < input.in > image.ppm and open image.ppm.
-Program consumes an input file (eg input.in) and produces a ppm image file.
-
-main.cpp contains the main() function
+Run `make run` command in the current directory.
+It will compile the program, and will run it as `./main.out < input.in > image.ppm` and `open image.ppm`.
+Program consumes an input file (eg `input.in`) and produces a ppm image file.
 
 ## Description
 <html><head>
@@ -12,8 +10,8 @@ main.cpp contains the main() function
 
 <h3>Introduction</h3>
 The aim of this assignment is to create 1 level recursive ray tracer using C++.
-The program takes an input file (input.in) which contains the specifications of the
-scene to be created, and produces the corresponding output image file (image.ppm) in ppm format.
+The program takes an input file (`input.in`) that contains the specifications of the
+scene to be created, and produces the corresponding output image file (`image.ppm`) in ppm format.
 
 </p><p>
 </p><h4>Input File Format</h4>
